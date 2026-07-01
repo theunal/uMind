@@ -427,8 +427,10 @@ class QuestionGenerator {
       bool scaleOnly = false}) {
     final options = <ShapeSpec>[correct];
     final optionCount = 6;
+    int maxAttempts = 0;
 
-    while (options.length < optionCount) {
+    while (options.length < optionCount && maxAttempts < 200) {
+      maxAttempts++;
       ShapeSpec wrong;
       if (colorOnly) {
         wrong = correct.copyWith(colorValue: _randomColor());
@@ -453,14 +455,21 @@ class QuestionGenerator {
 
       final isDuplicate = options.any((o) =>
           o.type == wrong.type &&
-          o.colorValue == wrong.colorValue &&
-          (o.rotationDeg - wrong.rotationDeg).abs() < 1 &&
-          (o.scale - wrong.scale).abs() < 0.01 &&
-          o.count == wrong.count);
+          o.colorValue == wrong.colorValue);
 
       if (!isDuplicate) {
         options.add(wrong);
       }
+    }
+
+    while (options.length < optionCount) {
+      options.add(ShapeSpec(
+        type: _randomShape(),
+        colorValue: _randomColor(),
+        rotationDeg: 0,
+        scale: 1.0,
+        count: 1,
+      ));
     }
 
     options.shuffle(_rng);

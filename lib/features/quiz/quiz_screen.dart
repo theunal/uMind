@@ -419,11 +419,7 @@ class _QuizScreenState extends State<QuizScreen>
                 width: double.infinity,
                 child: ElevatedButton(
                   onPressed: () {
-                    if (widget.level < 100) {
-                      context.go('/quiz/${widget.level + 1}');
-                    } else {
-                      context.go('/levels');
-                    }
+                    context.go('/levels');
                   },
                   style: ElevatedButton.styleFrom(
                     padding: const EdgeInsets.symmetric(vertical: 14),
