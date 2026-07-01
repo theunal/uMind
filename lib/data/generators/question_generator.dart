@@ -100,6 +100,8 @@ class QuestionGenerator {
         return _generateSymmetry(level, order);
       case PatternType.combination:
         return _generateCombination(level, order);
+      default:
+        return _generateColorCycle(level, order);
     }
   }
 

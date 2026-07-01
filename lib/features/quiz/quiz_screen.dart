@@ -43,6 +43,7 @@ class _QuizScreenState extends State<QuizScreen> {
   bool _loading = true;
   bool _showResult = false;
   bool _showReview = false;
+  String? _errorMessage;
 
   final List<_AnswerRecord> _answers = [];
 
@@ -53,13 +54,20 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   Future<void> _loadQuestions() async {
-    final repo = context.read<QuestionRepository>();
-    final questions = await repo.getQuestionsForLevel(widget.level);
-    setState(() {
-      _questions = questions;
-      _loading = false;
-      _startTime = DateTime.now();
-    });
+    try {
+      final repo = context.read<QuestionRepository>();
+      final questions = await repo.getQuestionsForLevel(widget.level);
+      setState(() {
+        _questions = questions;
+        _loading = false;
+        _startTime = DateTime.now();
+      });
+    } catch (e) {
+      setState(() {
+        _loading = false;
+        _errorMessage = 'Soru yüklenirken hata: $e';
+      });
+    }
   }
 
   void _onOptionTap(int index) {
@@ -129,6 +137,31 @@ class _QuizScreenState extends State<QuizScreen> {
         backgroundColor: colors.background,
         body: Center(
           child: CircularProgressIndicator(color: colors.primary),
+        ),
+      );
+    }
+
+    if (_errorMessage != null) {
+      return Scaffold(
+        backgroundColor: colors.background,
+        body: Center(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Icon(Icons.error_outline, color: colors.error, size: 48),
+              const SizedBox(height: 16),
+              Text(
+                _errorMessage!,
+                style: TextStyle(color: colors.textPrimary, fontSize: 16),
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: 24),
+              ElevatedButton(
+                onPressed: () => context.go('/levels'),
+                child: Text(loc.retry),
+              ),
+            ],
+          ),
         ),
       );
     }

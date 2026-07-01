@@ -1,1 +1,522 @@
-[{"id":"L1_Q1","level":1,"orderInLevel":1,"pattern":"colorCycle","sequence":[{"type":"pentagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"pentagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":3,"isMatrix":false},{"id":"L1_Q2","level":1,"orderInLevel":2,"pattern":"sequence","sequence":[{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"diamond","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":2,"isMatrix":false},{"id":"L1_Q3","level":1,"orderInLevel":3,"pattern":"colorCycle","sequence":[{"type":"square","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"square","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":0,"isMatrix":false},{"id":"L1_Q4","level":1,"orderInLevel":4,"pattern":"sequence","sequence":[{"type":"star","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"triangle","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":5,"isMatrix":false},{"id":"L1_Q5","level":1,"orderInLevel":5,"pattern":"colorCycle","sequence":[{"type":"star","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"oval","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":5,"isMatrix":false},{"id":"L1_Q6","level":1,"orderInLevel":6,"pattern":"sequence","sequence":[{"type":"hexagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":4,"isMatrix":false},{"id":"L1_Q7","level":1,"orderInLevel":7,"pattern":"colorCycle","sequence":[{"type":"pentagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"circle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":2,"isMatrix":false},{"id":"L1_Q8","level":1,"orderInLevel":8,"pattern":"sequence","sequence":[{"type":"square","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"star","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":2,"isMatrix":false},{"id":"L1_Q9","level":1,"orderInLevel":9,"pattern":"colorCycle","sequence":[{"type":"triangle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"triangle","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":3,"isMatrix":false},{"id":"L1_Q10","level":1,"orderInLevel":10,"pattern":"sequence","sequence":[{"type":"hexagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"star","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":4,"isMatrix":false},{"id":"L1_Q11","level":1,"orderInLevel":11,"pattern":"colorCycle","sequence":[{"type":"oval","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"oval","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":0,"isMatrix":false},{"id":"L1_Q12","level":1,"orderInLevel":12,"pattern":"sequence","sequence":[{"type":"square","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"diamond","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":1,"isMatrix":false},{"id":"L1_Q13","level":1,"orderInLevel":13,"pattern":"colorCycle","sequence":[{"type":"circle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"star","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":4,"isMatrix":false},{"id":"L1_Q14","level":1,"orderInLevel":14,"pattern":"sequence","sequence":[{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"triangle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":0,"isMatrix":false},{"id":"L1_Q15","level":1,"orderInLevel":15,"pattern":"colorCycle","sequence":[{"type":"diamond","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"square","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":4,"isMatrix":false},{"id":"L1_Q16","level":1,"orderInLevel":16,"pattern":"sequence","sequence":[{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":0,"isMatrix":false},{"id":"L1_Q17","level":1,"orderInLevel":17,"pattern":"colorCycle","sequence":[{"type":"triangle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"triangle","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":0,"isMatrix":false},{"id":"L1_Q18","level":1,"orderInLevel":18,"pattern":"sequence","sequence":[{"type":"circle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"circle","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"star","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"oval","color":4294688548,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":0,"isMatrix":false},{"id":"L1_Q19","level":1,"orderInLevel":19,"pattern":"colorCycle","sequence":[{"type":"square","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"oval","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"diamond","color":4286680312,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4289170426,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4284999929,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":4,"isMatrix":false},{"id":"L1_Q20","level":1,"orderInLevel":20,"pattern":"sequence","sequence":[{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"hexagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1}],"options":[{"type":"square","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"triangle","color":4294677052,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4294210230,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"circle","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"square","color":4294472049,"rotationDeg":0.0,"scale":1.0,"count":1},{"type":"pentagon","color":4281652121,"rotationDeg":0.0,"scale":1.0,"count":1}],"correctOptionIndex":2,"isMatrix":false}]
+[
+  {
+    "id": "L1_Q1",
+    "level": 1,
+    "orderInLevel": 1,
+    "sequence": [
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9}]},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9}]},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9}]},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9}]},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9}]},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9}]},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9}]},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9}]}
+    ],
+    "options": [
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
+      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.9},
+      {"type": "square", "color": 65280, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16711935, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 45, "scale": 0.9},
+      {"type": "triangle", "color": 16776960, "rotationDeg": 0, "scale": 0.5}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "countIncrement",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q2",
+    "level": 1,
+    "orderInLevel": 2,
+    "sequence": [
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8},
+      {"type": "square", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.8}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "shapeStack",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q3",
+    "level": 1,
+    "orderInLevel": 3,
+    "sequence": [
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]}
+    ],
+    "options": [
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "triangle", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 15698644, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 4915330, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "nestedEvolution",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q4",
+    "level": 1,
+    "orderInLevel": 4,
+    "sequence": [
+      {"type": "pentagon", "color": 16761035, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 10053375, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 16761035, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 10053375, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 16761035, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 10053375, "rotationDeg": 0, "scale": 0.9}
+    ],
+    "options": [
+      {"type": "pentagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 16761035, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 10053375, "rotationDeg": 0, "scale": 0.9},
+      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9},
+      {"type": "pentagon", "color": 16753920, "rotationDeg": 0, "scale": 0.5}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "colorCycle",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q5",
+    "level": 1,
+    "orderInLevel": 5,
+    "sequence": [
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true}
+    ],
+    "options": [
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
+      {"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.5, "outlineOnly": false},
+      {"type": "triangle", "color": 8388863, "rotationDeg": 45, "scale": 0.9, "outlineOnly": false}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "outlineToggle",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q6",
+    "level": 1,
+    "orderInLevel": 6,
+    "sequence": [
+      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 45, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 45, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 45, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 90, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 90, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 90, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 135, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 135, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 135, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 180, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 180, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 180, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 225, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 225, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 225, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 270, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 270, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 270, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 315, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 315, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 315, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "square", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.5, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.5}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "rotationBasic",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q7",
+    "level": 1,
+    "orderInLevel": 7,
+    "sequence": [
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.5},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.6},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.7},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.8},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.0},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.1},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.2}
+    ],
+    "options": [
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.3},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.5},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.0},
+      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 1.3},
+      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 1.3},
+      {"type": "square", "color": 8421504, "rotationDeg": 45, "scale": 1.3}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "scaleProgression",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q8",
+    "level": 1,
+    "orderInLevel": 8,
+    "sequence": [
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true}
+    ],
+    "options": [
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
+      {"type": "square", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
+      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.5, "outlineOnly": false},
+      {"type": "circle", "color": 16711935, "rotationDeg": 45, "scale": 0.9, "outlineOnly": false}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "symmetryOutline",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q9",
+    "level": 1,
+    "orderInLevel": 9,
+    "sequence": [
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.8}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.0, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.0}, {"type": "triangle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.1, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.1}, {"type": "diamond", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.15, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.15}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.2, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.2}, {"type": "square", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.25, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.25}, {"type": "triangle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.3, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.3}, {"type": "diamond", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.8}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35}, {"type": "square", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 16750848, "rotationDeg": 0, "scale": 1.35, "layers": [{"type": "circle", "color": 16750848, "rotationDeg": 0, "scale": 1.35}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 1.35, "layers": [{"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 1.35}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "innerShapeEvolution",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q10",
+    "level": 1,
+    "orderInLevel": 10,
+    "sequence": [
+      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "hexagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "shapeStack",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q11",
+    "level": 1,
+    "orderInLevel": 11,
+    "sequence": [
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]}
+    ],
+    "options": [
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "pentagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "shapeStack",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q12",
+    "level": 1,
+    "orderInLevel": 12,
+    "sequence": [
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.3},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.2},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.1},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.0},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.8},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.7},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.6}
+    ],
+    "options": [
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.5},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.3},
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.8},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.5},
+      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.5},
+      {"type": "circle", "color": 8421504, "rotationDeg": 45, "scale": 0.5}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "countdownShrink",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q13",
+    "level": 1,
+    "orderInLevel": 13,
+    "sequence": [
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "nestedEvolution",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q14",
+    "level": 1,
+    "orderInLevel": 14,
+    "sequence": [
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "shapeStack",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q15",
+    "level": 1,
+    "orderInLevel": 15,
+    "sequence": [
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9}
+    ],
+    "options": [
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.9},
+      {"type": "square", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 45, "scale": 0.9},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.5},
+      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "mirrorSymmetry",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q16",
+    "level": 1,
+    "orderInLevel": 16,
+    "sequence": [
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]}
+    ],
+    "options": [
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "nestedEvolution",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q17",
+    "level": 1,
+    "orderInLevel": 17,
+    "sequence": [
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "shapeStack",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q18",
+    "level": 1,
+    "orderInLevel": 18,
+    "sequence": [
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "pentagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "nestedEvolution",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q19",
+    "level": 1,
+    "orderInLevel": 19,
+    "sequence": [
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "pentagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "options": [
+      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "pentagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
+      {"type": "hexagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "shapeTypeProgression",
+    "isMatrix": false
+  },
+  {
+    "id": "L1_Q20",
+    "level": 1,
+    "orderInLevel": 20,
+    "sequence": [
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]}
+    ],
+    "options": [
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "square", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
+      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
+    ],
+    "correctOptionIndex": 0,
+    "pattern": "nestedEvolution",
+    "isMatrix": false
+  }
+]
