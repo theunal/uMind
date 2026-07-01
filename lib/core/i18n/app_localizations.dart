@@ -36,6 +36,11 @@ class AppLocalizations {
           'Bu test eğlence ve pratik amaçlıdır. Klinik bir IQ testi değildir.',
       'congratulations': 'Tebrikler!',
       'levelLocked': 'Bu seviye kilitli',
+      'backToMenu': 'Ana Menü',
+      'viewAnswers': 'Cevapları Gör',
+      'answerReview': 'Cevap İnceleme',
+      'yourAnswer': 'Senin cevabın',
+      'correctAnswer': 'Doğru cevap',
     },
     'en': {
       'appTitle': 'uMind',
@@ -60,6 +65,11 @@ class AppLocalizations {
           'This test is for entertainment and practice purposes. It is not a clinical IQ test.',
       'congratulations': 'Congratulations!',
       'levelLocked': 'This level is locked',
+      'backToMenu': 'Main Menu',
+      'viewAnswers': 'View Answers',
+      'answerReview': 'Answer Review',
+      'yourAnswer': 'Your answer',
+      'correctAnswer': 'Correct answer',
     },
   };
 
@@ -89,6 +99,11 @@ class AppLocalizations {
   String get disclaimer => _translate('disclaimer');
   String get congratulations => _translate('congratulations');
   String get levelLocked => _translate('levelLocked');
+  String get backToMenu => _translate('backToMenu');
+  String get viewAnswers => _translate('viewAnswers');
+  String get answerReview => _translate('answerReview');
+  String get yourAnswer => _translate('yourAnswer');
+  String get correctAnswer => _translate('correctAnswer');
 
   String questionProgress(int current, int total) {
     return _translate('questionProgress')
