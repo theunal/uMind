@@ -33,7 +33,7 @@ class ProgressRepository {
     if (result.iqScore > progress.bestScore) {
       progress.bestScore = result.iqScore;
     }
-    if (result.correct >= 12) {
+    if (result.correct >= 1) {
       if (level >= progress.currentLevel) {
         progress.currentLevel = level + 1;
       }

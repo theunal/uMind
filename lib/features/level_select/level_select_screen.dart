@@ -14,7 +14,7 @@ class LevelSelectScreen extends StatefulWidget {
 }
 
 class _LevelSelectScreenState extends State<LevelSelectScreen>
-    with SingleTickerProviderStateMixin {
+    with SingleTickerProviderStateMixin, WidgetsBindingObserver {
   int _currentLevel = 1;
   late AnimationController _glowController;
 
@@ -26,19 +26,28 @@ class _LevelSelectScreenState extends State<LevelSelectScreen>
       duration: const Duration(milliseconds: 2000),
     );
     _glowController.repeat(reverse: true);
+    WidgetsBinding.instance.addObserver(this);
     _loadProgress();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      _loadProgress();
+    }
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    _glowController.dispose();
+    super.dispose();
   }
 
   Future<void> _loadProgress() async {
     final repo = context.read<ProgressRepository>();
     final progress = repo.getProgress();
     setState(() => _currentLevel = progress.currentLevel);
-  }
-
-  @override
-  void dispose() {
-    _glowController.dispose();
-    super.dispose();
   }
 
   @override
@@ -100,7 +109,10 @@ class _LevelSelectScreenState extends State<LevelSelectScreen>
                         isCurrent: isCurrent,
                         glowAnimation: _glowController,
                         onTap: isUnlocked
-                            ? () => context.go('/quiz/$level')
+                            ? () async {
+                                await context.push('/quiz/$level');
+                                _loadProgress();
+                              }
                             : null,
                       );
                     },
