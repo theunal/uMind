@@ -115,109 +115,207 @@
     "orderInLevel": 2,
     "sequence": [
       {
-        "type": "square",
-        "color": 4294901760,
-        "rotationDeg": 0,
-        "scale": 0.9,
-        "outlineOnly": false
-      },
-      {
-        "type": "square",
-        "color": 4294901760,
+        "type": "line",
+        "color": 4294970194,
         "rotationDeg": 45,
-        "scale": 0.9,
-        "outlineOnly": true
+        "scale": 0.9
       },
       {
-        "type": "square",
-        "color": 4294901760,
-        "rotationDeg": 90,
-        "scale": 0.9,
-        "outlineOnly": false
+        "type": "line",
+        "color": 4282711535,
+        "rotationDeg": 0,
+        "scale": 0.9
       },
       {
-        "type": "square",
-        "color": 4294901760,
+        "type": "line",
+        "color": 0,
+        "rotationDeg": 0,
+        "scale": 1,
+        "layers": [
+          {
+            "type": "line",
+            "color": 4294970194,
+            "rotationDeg": 45,
+            "scale": 0.9
+          },
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 0,
+            "scale": 0.9
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "color": 4294970194,
         "rotationDeg": 135,
-        "scale": 0.9,
-        "outlineOnly": true
+        "scale": 0.9
       },
       {
-        "type": "square",
-        "color": 4294901760,
-        "rotationDeg": 180,
-        "scale": 0.9,
-        "outlineOnly": false
+        "type": "line",
+        "color": 4282711535,
+        "rotationDeg": 90,
+        "scale": 0.9
       },
       {
-        "type": "square",
-        "color": 4294901760,
-        "rotationDeg": 225,
-        "scale": 0.9,
-        "outlineOnly": true
+        "type": "line",
+        "color": 0,
+        "rotationDeg": 0,
+        "scale": 1,
+        "layers": [
+          {
+            "type": "line",
+            "color": 4294970194,
+            "rotationDeg": 135,
+            "scale": 0.9
+          },
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 90,
+            "scale": 0.9
+          }
+        ]
       },
       {
-        "type": "square",
-        "color": 4294901760,
-        "rotationDeg": 270,
-        "scale": 0.9,
-        "outlineOnly": false
+        "type": "line",
+        "color": 4294970194,
+        "rotationDeg": 60,
+        "scale": 0.9
       },
       {
-        "type": "square",
-        "color": 4294901760,
-        "rotationDeg": 315,
-        "scale": 0.9,
-        "outlineOnly": true
+        "type": "line",
+        "color": 4282711535,
+        "rotationDeg": 135,
+        "scale": 0.9
       }
     ],
     "options": [
       {
-        "type": "square",
-        "color": 4294901760,
+        "type": "line",
+        "color": 0,
         "rotationDeg": 0,
-        "scale": 0.9,
-        "outlineOnly": false
+        "scale": 1,
+        "layers": [
+          {
+            "type": "line",
+            "color": 4294970194,
+            "rotationDeg": 60,
+            "scale": 0.9
+          },
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 135,
+            "scale": 0.9
+          }
+        ]
       },
       {
-        "type": "square",
-        "color": 4294901760,
+        "type": "line",
+        "color": 0,
         "rotationDeg": 0,
-        "scale": 0.9,
-        "outlineOnly": true
+        "scale": 1,
+        "layers": [
+          {
+            "type": "line",
+            "color": 4294970194,
+            "rotationDeg": 45,
+            "scale": 0.9
+          },
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 0,
+            "scale": 0.9
+          }
+        ]
       },
       {
-        "type": "square",
-        "color": 4294901760,
-        "rotationDeg": 45,
-        "scale": 0.9,
-        "outlineOnly": false
+        "type": "line",
+        "color": 0,
+        "rotationDeg": 0,
+        "scale": 1,
+        "layers": [
+          {
+            "type": "line",
+            "color": 4294970194,
+            "rotationDeg": 135,
+            "scale": 0.9
+          },
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 90,
+            "scale": 0.9
+          }
+        ]
       },
       {
-        "type": "circle",
-        "color": 4294901760,
+        "type": "line",
+        "color": 0,
         "rotationDeg": 0,
-        "scale": 0.9,
-        "outlineOnly": false
+        "scale": 1,
+        "layers": [
+          {
+            "type": "line",
+            "color": 4294970194,
+            "rotationDeg": 60,
+            "scale": 0.9
+          },
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 90,
+            "scale": 0.9
+          }
+        ]
       },
       {
-        "type": "square",
-        "color": 4286578943,
+        "type": "line",
+        "color": 0,
         "rotationDeg": 0,
-        "scale": 0.9,
-        "outlineOnly": false
+        "scale": 1,
+        "layers": [
+          {
+            "type": "line",
+            "color": 4294970194,
+            "rotationDeg": 45,
+            "scale": 0.9
+          },
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 135,
+            "scale": 0.9
+          }
+        ]
       },
       {
-        "type": "square",
-        "color": 4294901760,
+        "type": "line",
+        "color": 0,
         "rotationDeg": 0,
-        "scale": 0.5,
-        "outlineOnly": false
+        "scale": 1,
+        "layers": [
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "line",
+            "color": 4282711535,
+            "rotationDeg": 90,
+            "scale": 0.9
+          }
+        ]
       }
     ],
     "correctOptionIndex": 0,
-    "pattern": "outlineToggle",
-    "isMatrix": false
+    "pattern": "additiveOverlay",
+    "isMatrix": true
   },
   {
     "id": "L1_Q3",

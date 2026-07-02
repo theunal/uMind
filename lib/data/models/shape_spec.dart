@@ -8,7 +8,8 @@ enum ShapeType {
   hexagon,
   oval,
   star,
-  diamond;
+  diamond,
+  line;
 
   String toJson() => name;
   static ShapeType fromJson(String json) => values.byName(json);

@@ -18,10 +18,11 @@ class ShapePainter extends CustomPainter {
 
     if (spec.hasLayers) {
       for (final layer in spec.layers!) {
+        final isLine = layer.type == ShapeType.line;
         final layerPaint = Paint()
           ..color = Color(layer.colorValue)
-          ..style = layer.outlineOnly ? PaintingStyle.stroke : PaintingStyle.fill
-          ..strokeWidth = layer.outlineOnly ? 3.0 : 0.0
+          ..style = (isLine || layer.outlineOnly) ? PaintingStyle.stroke : PaintingStyle.fill
+          ..strokeWidth = isLine ? 3.0 : (layer.outlineOnly ? 3.0 : 0.0)
           ..isAntiAlias = true;
         final layerRadius = baseRadius * layer.scale;
         canvas.save();
@@ -81,10 +82,11 @@ class ShapePainter extends CustomPainter {
   }
 
   Paint _fillPaint() {
+    final isLine = spec.type == ShapeType.line;
     return Paint()
       ..color = spec.color
-      ..style = spec.outlineOnly ? PaintingStyle.stroke : PaintingStyle.fill
-      ..strokeWidth = spec.outlineOnly ? 3.0 : 0.0
+      ..style = (isLine || spec.outlineOnly) ? PaintingStyle.stroke : PaintingStyle.fill
+      ..strokeWidth = isLine ? 3.0 : (spec.outlineOnly ? 3.0 : 0.0)
       ..isAntiAlias = true;
   }
 
@@ -191,6 +193,13 @@ class ShapePainter extends CustomPainter {
           ..lineTo(offset.dx - radius * 0.6, offset.dy)
           ..close();
         canvas.drawPath(path, paint);
+        break;
+      case ShapeType.line:
+        canvas.drawLine(
+          Offset(offset.dx - radius, offset.dy),
+          Offset(offset.dx + radius, offset.dy),
+          paint,
+        );
         break;
     }
   }
