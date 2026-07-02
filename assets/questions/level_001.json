@@ -4,22 +4,106 @@
     "level": 1,
     "orderInLevel": 1,
     "sequence": [
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "count": 3},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "count": 2},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "count": 1},
-      {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "count": 3},
-      {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "count": 2},
-      {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "count": 1},
-      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "count": 3},
-      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "count": 2}
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 3
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 2
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 1
+      },
+      {
+        "type": "triangle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 3
+      },
+      {
+        "type": "triangle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 2
+      },
+      {
+        "type": "triangle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 1
+      },
+      {
+        "type": "circle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 3
+      },
+      {
+        "type": "circle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 2
+      }
     ],
     "options": [
-      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "count": 1},
-      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "count": 3},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "count": 1},
-      {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "count": 1},
-      {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "count": 1},
-      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "count": 2}
+      {
+        "type": "circle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 1
+      },
+      {
+        "type": "circle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 3
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 1
+      },
+      {
+        "type": "circle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 1
+      },
+      {
+        "type": "triangle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 1
+      },
+      {
+        "type": "circle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "count": 2
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "countIncrement",
@@ -30,22 +114,106 @@
     "level": 1,
     "orderInLevel": 2,
     "sequence": [
-      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "square", "color": 16711680, "rotationDeg": 45, "scale": 0.9, "outlineOnly": true},
-      {"type": "square", "color": 16711680, "rotationDeg": 90, "scale": 0.9, "outlineOnly": false},
-      {"type": "square", "color": 16711680, "rotationDeg": 135, "scale": 0.9, "outlineOnly": true},
-      {"type": "square", "color": 16711680, "rotationDeg": 180, "scale": 0.9, "outlineOnly": false},
-      {"type": "square", "color": 16711680, "rotationDeg": 225, "scale": 0.9, "outlineOnly": true},
-      {"type": "square", "color": 16711680, "rotationDeg": 270, "scale": 0.9, "outlineOnly": false},
-      {"type": "square", "color": 16711680, "rotationDeg": 315, "scale": 0.9, "outlineOnly": true}
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 45,
+        "scale": 0.9,
+        "outlineOnly": true
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 90,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 135,
+        "scale": 0.9,
+        "outlineOnly": true
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 180,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 225,
+        "scale": 0.9,
+        "outlineOnly": true
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 270,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 315,
+        "scale": 0.9,
+        "outlineOnly": true
+      }
     ],
     "options": [
-      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
-      {"type": "square", "color": 16711680, "rotationDeg": 45, "scale": 0.9, "outlineOnly": false},
-      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.5, "outlineOnly": false}
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": true
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 45,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "square",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.5,
+        "outlineOnly": false
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "outlineToggle",
@@ -56,22 +224,92 @@
     "level": 1,
     "orderInLevel": 3,
     "sequence": [
-      {"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 0.5},
-      {"type": "diamond", "color": 8388863, "rotationDeg": 0, "scale": 0.6},
-      {"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 0.7},
-      {"type": "diamond", "color": 8388863, "rotationDeg": 0, "scale": 0.8},
-      {"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "diamond", "color": 8388863, "rotationDeg": 0, "scale": 1.0},
-      {"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 1.1},
-      {"type": "diamond", "color": 8388863, "rotationDeg": 0, "scale": 1.2}
+      {
+        "type": "diamond",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.5
+      },
+      {
+        "type": "diamond",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.6
+      },
+      {
+        "type": "diamond",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.7
+      },
+      {
+        "type": "diamond",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.8
+      },
+      {
+        "type": "diamond",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "diamond",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 1
+      },
+      {
+        "type": "diamond",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 1.1
+      },
+      {
+        "type": "diamond",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 1.2
+      }
     ],
     "options": [
-      {"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 1.3},
-      {"type": "diamond", "color": 8388863, "rotationDeg": 0, "scale": 1.3},
-      {"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 0.5},
-      {"type": "circle", "color": 16776960, "rotationDeg": 0, "scale": 1.3},
-      {"type": "diamond", "color": 16744448, "rotationDeg": 0, "scale": 1.3},
-      {"type": "diamond", "color": 16776960, "rotationDeg": 45, "scale": 1.3}
+      {
+        "type": "diamond",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "diamond",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "diamond",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.5
+      },
+      {
+        "type": "circle",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "diamond",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "diamond",
+        "color": 4294967040,
+        "rotationDeg": 45,
+        "scale": 1.3
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "scaleProgression",
@@ -82,22 +320,92 @@
     "level": 1,
     "orderInLevel": 4,
     "sequence": [
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "star", "color": 16744448, "rotationDeg": 0, "scale": 0.9},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "circle", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.9},
-      {"type": "circle", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "pentagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.9}
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "star",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "circle",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "circle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "circle",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "pentagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "pentagon",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9
+      }
     ],
     "options": [
-      {"type": "pentagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.9},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "circle", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.9},
-      {"type": "pentagon", "color": 16776960, "rotationDeg": 45, "scale": 0.9}
+      {
+        "type": "pentagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "pentagon",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "circle",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "pentagon",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "pentagon",
+        "color": 4294967040,
+        "rotationDeg": 45,
+        "scale": 0.9
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "xorLogic",
@@ -108,22 +416,274 @@
     "level": 1,
     "orderInLevel": 5,
     "sequence": [
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "square",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "diamond",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "square",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "diamond",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16753920, "rotationDeg": 0, "scale": 0.9},
-      {"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16753920, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "square",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "hexagon",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "innerShapeEvolution",
@@ -134,22 +694,288 @@
     "level": 1,
     "orderInLevel": 6,
     "sequence": [
-      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 45, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 45, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 45, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 90, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 90, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 90, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 135, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 135, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 135, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 180, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 180, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 180, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 225, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 225, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 225, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 270, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 270, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 270, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 315, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 315, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 315, "scale": 0.4}]}
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 45,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 45,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 45,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 90,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 90,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 90,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 135,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 135,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 135,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 180,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 180,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 180,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 225,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 225,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 225,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 270,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 270,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 270,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 315,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 315,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 315,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "square", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.8}, {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.5, "layers": [{"type": "circle", "color": 65412, "rotationDeg": 0, "scale": 0.5}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4278255492,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4278255492,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4278255492,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "square",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4278255492,
+        "rotationDeg": 0,
+        "scale": 0.5,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4278255492,
+            "rotationDeg": 0,
+            "scale": 0.5
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "rotationBasic",
@@ -160,22 +986,92 @@
     "level": 1,
     "orderInLevel": 7,
     "sequence": [
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.5},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.6},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.7},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.8},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.0},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.1},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.2}
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.5
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.6
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.7
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.8
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1.1
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1.2
+      }
     ],
     "options": [
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.3},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.5},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 1.0},
-      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 1.3},
-      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 1.3},
-      {"type": "square", "color": 8421504, "rotationDeg": 45, "scale": 1.3}
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.5
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1
+      },
+      {
+        "type": "triangle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 45,
+        "scale": 1.3
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "scaleProgression",
@@ -186,22 +1082,106 @@
     "level": 1,
     "orderInLevel": 8,
     "sequence": [
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true}
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": true
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": true
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": true
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": true
+      }
     ],
     "options": [
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true},
-      {"type": "square", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "outlineOnly": false},
-      {"type": "circle", "color": 16711935, "rotationDeg": 0, "scale": 0.5, "outlineOnly": false},
-      {"type": "circle", "color": 16711935, "rotationDeg": 45, "scale": 0.9, "outlineOnly": false}
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": true
+      },
+      {
+        "type": "square",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.5,
+        "outlineOnly": false
+      },
+      {
+        "type": "circle",
+        "color": 4294902015,
+        "rotationDeg": 45,
+        "scale": 0.9,
+        "outlineOnly": false
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "symmetryOutline",
@@ -212,22 +1192,274 @@
     "level": 1,
     "orderInLevel": 9,
     "sequence": [
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.8}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.0, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.0}, {"type": "triangle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.1, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.1}, {"type": "diamond", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.15, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.15}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.2, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.2}, {"type": "square", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.25, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.25}, {"type": "triangle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.3, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.3}, {"type": "diamond", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "square",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1
+          },
+          {
+            "type": "triangle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.1,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1.1
+          },
+          {
+            "type": "diamond",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.15,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1.15
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.2,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1.2
+          },
+          {
+            "type": "square",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.25,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1.25
+          },
+          {
+            "type": "triangle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.3,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1.3
+          },
+          {
+            "type": "diamond",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.8}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35, "layers": [{"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35}, {"type": "square", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 16750848, "rotationDeg": 0, "scale": 1.35, "layers": [{"type": "circle", "color": 16750848, "rotationDeg": 0, "scale": 1.35}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 1.35, "layers": [{"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 1.35}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 1.35}
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.35,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1.35
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.35,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1.35
+          },
+          {
+            "type": "square",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.35,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4294940928,
+            "rotationDeg": 0,
+            "scale": 1.35
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 1.35,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 1.35
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 1.35
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "innerShapeEvolution",
@@ -238,22 +1470,288 @@
     "level": 1,
     "orderInLevel": 10,
     "sequence": [
-      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 8388863, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "circle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "pentagon",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "pentagon",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "pentagon",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "pentagon",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "square", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "pentagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "hexagon", "color": 8388863, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "circle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "pentagon",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "pentagon",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.8,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.8
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "nestedShapeOutline",
@@ -264,22 +1762,274 @@
     "level": 1,
     "orderInLevel": 11,
     "sequence": [
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]}
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "pentagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 10526880, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "pentagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "pentagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4288716960,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "nestedShapeOutline",
@@ -290,22 +2040,92 @@
     "level": 1,
     "orderInLevel": 12,
     "sequence": [
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.3},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.2},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.1},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.0},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.8},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.7},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.6}
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1.2
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1.1
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.8
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.7
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.6
+      }
     ],
     "options": [
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.5},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 1.3},
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.8},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.5},
-      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.5},
-      {"type": "circle", "color": 8421504, "rotationDeg": 45, "scale": 0.5}
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.5
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 1.3
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.8
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.5
+      },
+      {
+        "type": "circle",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.5
+      },
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 45,
+        "scale": 0.5
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "countdownShrink",
@@ -316,22 +2136,274 @@
     "level": 1,
     "orderInLevel": 13,
     "sequence": [
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294944000,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294944000,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "nestedShapeOutline",
@@ -342,22 +2414,274 @@
     "level": 1,
     "orderInLevel": 14,
     "sequence": [
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "square",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "oval",
+        "color": 4286578943,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "oval",
+            "color": 4286578943,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "nestedShapeOutline",
@@ -368,22 +2692,93 @@
     "level": 1,
     "orderInLevel": 15,
     "sequence": [
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9}
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      }
     ],
     "options": [
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.9},
-      {"type": "square", "color": 16750848, "rotationDeg": 0, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 45, "scale": 0.9},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.5},
-      {"type": "triangle", "color": 16750848, "rotationDeg": 0, "scale": 0.9, "outlineOnly": true}
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "square",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 45,
+        "scale": 0.9
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.5
+      },
+      {
+        "type": "triangle",
+        "color": 4294940928,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "outlineOnly": true
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "mirrorSymmetry",
@@ -394,22 +2789,274 @@
     "level": 1,
     "orderInLevel": 16,
     "sequence": [
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]}
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "nestedShapeOutline",
@@ -420,22 +3067,274 @@
     "level": 1,
     "orderInLevel": 17,
     "sequence": [
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 5592575, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4283782655,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "star",
+        "color": 4294967040,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "star",
+            "color": 4294967040,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "nestedShapeOutline",
@@ -446,22 +3345,274 @@
     "level": 1,
     "orderInLevel": 18,
     "sequence": [
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "pentagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "pentagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "pentagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "square",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4278239487,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4278239487,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "nestedShapeOutline",
@@ -472,22 +3623,288 @@
     "level": 1,
     "orderInLevel": 19,
     "sequence": [
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 16744448, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "pentagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 16744448, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 16744448, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "pentagon",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "pentagon",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "pentagon",
+        "color": 4294934528,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "pentagon",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "triangle", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "pentagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "pentagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]},
-      {"type": "hexagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
+      {
+        "type": "circle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "circle",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "triangle",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "triangle",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "pentagon",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "pentagon",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      },
+      {
+        "type": "hexagon",
+        "color": 4286611584,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "hexagon",
+            "color": 4286611584,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4294934528,
+            "rotationDeg": 0,
+            "scale": 0.4
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "multiVariableChain",
@@ -498,22 +3915,274 @@
     "level": 1,
     "orderInLevel": 20,
     "sequence": [
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]}
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      }
     ],
     "options": [
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711680, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "square", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 6750054, "rotationDeg": 0, "scale": 0.35}]},
-      {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294901760,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "square",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "square",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "triangle",
+            "color": 4284940134,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      },
+      {
+        "type": "diamond",
+        "color": 4294902015,
+        "rotationDeg": 0,
+        "scale": 0.9,
+        "layers": [
+          {
+            "type": "diamond",
+            "color": 4294902015,
+            "rotationDeg": 0,
+            "scale": 0.9
+          },
+          {
+            "type": "circle",
+            "color": 4294901760,
+            "rotationDeg": 0,
+            "scale": 0.35
+          }
+        ]
+      }
     ],
     "correctOptionIndex": 0,
     "pattern": "nestedShapeOutline",
