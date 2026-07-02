@@ -256,7 +256,7 @@
       {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8, "layers": [{"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.8}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "shapeStack",
+    "pattern": "nestedShapeOutline",
     "isMatrix": false
   },
   {
@@ -282,7 +282,7 @@
       {"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "shapeStack",
+    "pattern": "nestedShapeOutline",
     "isMatrix": false
   },
   {
@@ -334,7 +334,7 @@
       {"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16753920, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "nestedEvolution",
+    "pattern": "nestedShapeOutline",
     "isMatrix": false
   },
   {
@@ -360,7 +360,7 @@
       {"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "oval", "color": 8388863, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "shapeStack",
+    "pattern": "nestedShapeOutline",
     "isMatrix": false
   },
   {
@@ -412,7 +412,7 @@
       {"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "square", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "nestedEvolution",
+    "pattern": "nestedShapeOutline",
     "isMatrix": false
   },
   {
@@ -438,7 +438,7 @@
       {"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "star", "color": 16776960, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "shapeStack",
+    "pattern": "nestedShapeOutline",
     "isMatrix": false
   },
   {
@@ -464,7 +464,7 @@
       {"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 49407, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16711680, "rotationDeg": 0, "scale": 0.4}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "nestedEvolution",
+    "pattern": "nestedShapeOutline",
     "isMatrix": false
   },
   {
@@ -490,7 +490,7 @@
       {"type": "hexagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "hexagon", "color": 8421504, "rotationDeg": 0, "scale": 0.9}, {"type": "triangle", "color": 16744448, "rotationDeg": 0, "scale": 0.4}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "shapeTypeProgression",
+    "pattern": "multiVariableChain",
     "isMatrix": false
   },
   {
@@ -516,7 +516,7 @@
       {"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9, "layers": [{"type": "diamond", "color": 16711935, "rotationDeg": 0, "scale": 0.9}, {"type": "circle", "color": 16711680, "rotationDeg": 0, "scale": 0.35}]}
     ],
     "correctOptionIndex": 0,
-    "pattern": "nestedEvolution",
+    "pattern": "nestedShapeOutline",
     "isMatrix": false
   }
 ]
