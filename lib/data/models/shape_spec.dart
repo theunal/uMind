@@ -64,7 +64,10 @@ enum PatternType {
   countPattern,
   sizeScale,
   symmetry,
-  combination;
+  combination,
+
+  // === Yeni: Çizgi Kayıp Parça ===
+  linePattern;
 
   String toJson() => name;
   static PatternType fromJson(String json) => values.byName(json);
@@ -98,8 +101,10 @@ enum ShapePosition {
   bottomRight;
 
   String toJson() => name;
-  static ShapePosition fromJson(String json) =>
-      values.firstWhere((e) => e.name == json, orElse: () => ShapePosition.center);
+  static ShapePosition fromJson(String json) => values.firstWhere(
+    (e) => e.name == json,
+    orElse: () => ShapePosition.center,
+  );
 }
 
 class ShapeLayer {
@@ -122,24 +127,24 @@ class ShapeLayer {
   Color get color => Color(colorValue);
 
   Map<String, dynamic> toJson() => {
-        'type': type.toJson(),
-        'color': colorValue,
-        if (rotationDeg != 0) 'rotationDeg': rotationDeg,
-        if (scale != 1.0) 'scale': scale,
-        if (outlineOnly) 'outlineOnly': true,
-        if (linePattern != LinePattern.none) 'linePattern': linePattern.toJson(),
-      };
+    'type': type.toJson(),
+    'color': colorValue,
+    if (rotationDeg != 0) 'rotationDeg': rotationDeg,
+    if (scale != 1.0) 'scale': scale,
+    if (outlineOnly) 'outlineOnly': true,
+    if (linePattern != LinePattern.none) 'linePattern': linePattern.toJson(),
+  };
 
   factory ShapeLayer.fromJson(Map<String, dynamic> json) => ShapeLayer(
-        type: ShapeType.fromJson(json['type'] as String),
-        colorValue: json['color'] as int,
-        rotationDeg: (json['rotationDeg'] as num?)?.toDouble() ?? 0,
-        scale: (json['scale'] as num?)?.toDouble() ?? 1.0,
-        outlineOnly: json['outlineOnly'] as bool? ?? false,
-        linePattern: json['linePattern'] != null
-            ? LinePattern.fromJson(json['linePattern'] as String)
-            : LinePattern.none,
-      );
+    type: ShapeType.fromJson(json['type'] as String),
+    colorValue: json['color'] as int,
+    rotationDeg: (json['rotationDeg'] as num?)?.toDouble() ?? 0,
+    scale: (json['scale'] as num?)?.toDouble() ?? 1.0,
+    outlineOnly: json['outlineOnly'] as bool? ?? false,
+    linePattern: json['linePattern'] != null
+        ? LinePattern.fromJson(json['linePattern'] as String)
+        : LinePattern.none,
+  );
 }
 
 class ShapeSpec {
@@ -174,42 +179,42 @@ class ShapeSpec {
   bool get hasLayers => layers != null && layers!.isNotEmpty;
 
   Map<String, dynamic> toJson() => {
-        'type': type.toJson(),
-        'color': colorValue,
-        'rotationDeg': rotationDeg,
-        'scale': scale,
-        'count': count,
-        if (outlineOnly) 'outlineOnly': true,
-        if (innerShape != null) 'innerShape': innerShape!.toJson(),
-        if (innerColor != null) 'innerColor': innerColor,
-        if (linePattern != LinePattern.none) 'linePattern': linePattern.toJson(),
-        if (position != null) 'position': position!.toJson(),
-        if (layers != null) 'layers': layers!.map((l) => l.toJson()).toList(),
-      };
+    'type': type.toJson(),
+    'color': colorValue,
+    'rotationDeg': rotationDeg,
+    'scale': scale,
+    'count': count,
+    if (outlineOnly) 'outlineOnly': true,
+    if (innerShape != null) 'innerShape': innerShape!.toJson(),
+    if (innerColor != null) 'innerColor': innerColor,
+    if (linePattern != LinePattern.none) 'linePattern': linePattern.toJson(),
+    if (position != null) 'position': position!.toJson(),
+    if (layers != null) 'layers': layers!.map((l) => l.toJson()).toList(),
+  };
 
   factory ShapeSpec.fromJson(Map<String, dynamic> json) => ShapeSpec(
-        type: ShapeType.fromJson(json['type'] as String),
-        colorValue: json['color'] as int,
-        rotationDeg: (json['rotationDeg'] as num).toDouble(),
-        scale: (json['scale'] as num).toDouble(),
-        count: json['count'] as int? ?? 1,
-        outlineOnly: json['outlineOnly'] as bool? ?? false,
-        innerShape: json['innerShape'] != null
-            ? ShapeType.fromJson(json['innerShape'] as String)
-            : null,
-        innerColor: json['innerColor'] as int?,
-        linePattern: json['linePattern'] != null
-            ? LinePattern.fromJson(json['linePattern'] as String)
-            : LinePattern.none,
-        position: json['position'] != null
-            ? ShapePosition.fromJson(json['position'] as String)
-            : null,
-        layers: json['layers'] != null
-            ? (json['layers'] as List)
-                .map((l) => ShapeLayer.fromJson(l as Map<String, dynamic>))
-                .toList()
-            : null,
-      );
+    type: ShapeType.fromJson(json['type'] as String),
+    colorValue: json['color'] as int,
+    rotationDeg: (json['rotationDeg'] as num).toDouble(),
+    scale: (json['scale'] as num).toDouble(),
+    count: json['count'] as int? ?? 1,
+    outlineOnly: json['outlineOnly'] as bool? ?? false,
+    innerShape: json['innerShape'] != null
+        ? ShapeType.fromJson(json['innerShape'] as String)
+        : null,
+    innerColor: json['innerColor'] as int?,
+    linePattern: json['linePattern'] != null
+        ? LinePattern.fromJson(json['linePattern'] as String)
+        : LinePattern.none,
+    position: json['position'] != null
+        ? ShapePosition.fromJson(json['position'] as String)
+        : null,
+    layers: json['layers'] != null
+        ? (json['layers'] as List)
+              .map((l) => ShapeLayer.fromJson(l as Map<String, dynamic>))
+              .toList()
+        : null,
+  );
 
   ShapeSpec copyWith({
     ShapeType? type,

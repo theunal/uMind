@@ -52,8 +52,10 @@ class ProgressRepository {
     const avgTimeLimitMs = 30000;
     final avgTimePerQuestion = timeSpentMs / totalQuestions;
     final timeBonus =
-        (0 - (avgTimePerQuestion - avgTimeLimitMs) / avgTimeLimitMs * 20)
-            .clamp(0.0, 20.0);
+        (0 - (avgTimePerQuestion - avgTimeLimitMs) / avgTimeLimitMs * 20).clamp(
+          0.0,
+          20.0,
+        );
     final levelMultiplier = 1 + (level - 1) * 0.02;
     return ((baseScore + timeBonus) * levelMultiplier).round();
   }

@@ -33,8 +33,9 @@ if "%RESET%"=="1" (
     )
 )
 
-call :color_print 10 "Emulator is ready. Launching app..."
-flutter run -d emulator-5554
+call :color_print 10 "Emulator is ready. Launching app with hot reload support..."
+call :color_print 14 "Use 'r' to hot reload or 'R' to full restart in the flutter terminal."
+flutter run --hot -d emulator-5554
 exit /b 0
 
 :color_print

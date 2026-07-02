@@ -8,6 +8,8 @@ import '../../data/models/user_progress.dart';
 import '../../data/repositories/question_repository.dart';
 import '../../data/repositories/progress_repository.dart';
 import '../../shared/widgets/shape_widget.dart';
+import '../../shared/widgets/line_pattern_widget.dart';
+import '../../data/models/line_spec.dart';
 
 class QuizScreen extends StatefulWidget {
   final int level;
@@ -44,6 +46,7 @@ class _QuizScreenState extends State<QuizScreen> {
   bool _showResult = false;
   bool _showReview = false;
   String? _errorMessage;
+  int _lineCorrectIndex = 0;
 
   final List<_AnswerRecord> _answers = [];
 
@@ -73,7 +76,10 @@ class _QuizScreenState extends State<QuizScreen> {
   void _onOptionTap(int index) {
     if (_locked) return;
     final question = _questions[_currentIndex];
-    final correct = index == question.correctOptionIndex;
+    final correctIdx = question.isLineQuestion
+        ? _lineCorrectIndex
+        : question.correctOptionIndex;
+    final correct = index == correctIdx;
 
     setState(() {
       _locked = true;
@@ -81,12 +87,14 @@ class _QuizScreenState extends State<QuizScreen> {
       _isCorrect = correct;
       if (correct) _score++;
 
-      _answers.add(_AnswerRecord(
-        question: question,
-        selectedIndex: index,
-        correctIndex: question.correctOptionIndex,
-        isCorrect: correct,
-      ));
+      _answers.add(
+        _AnswerRecord(
+          question: question,
+          selectedIndex: index,
+          correctIndex: correctIdx,
+          isCorrect: correct,
+        ),
+      );
     });
 
     Future.delayed(const Duration(milliseconds: 600), () {
@@ -135,9 +143,7 @@ class _QuizScreenState extends State<QuizScreen> {
     if (_loading) {
       return Scaffold(
         backgroundColor: colors.background,
-        body: Center(
-          child: CircularProgressIndicator(color: colors.primary),
-        ),
+        body: Center(child: CircularProgressIndicator(color: colors.primary)),
       );
     }
 
@@ -175,6 +181,7 @@ class _QuizScreenState extends State<QuizScreen> {
     }
 
     final question = _questions[_currentIndex];
+    final isLine = question.isLineQuestion;
 
     return Scaffold(
       backgroundColor: colors.background,
@@ -187,7 +194,10 @@ class _QuizScreenState extends State<QuizScreen> {
               const SizedBox(height: 12),
               _buildProgressBar(colors),
               const SizedBox(height: 20),
-              _buildMatrix3x3(question, colors),
+              if (isLine)
+                _buildLinePatternArea(question, colors)
+              else
+                _buildMatrix3x3(question, colors),
               const Spacer(),
               Text(
                 loc.chooseAnswer,
@@ -198,11 +208,178 @@ class _QuizScreenState extends State<QuizScreen> {
                 ),
               ),
               const SizedBox(height: 12),
-              _buildOptions3x2(question, colors),
+              if (isLine)
+                _buildLineOptions(question, colors)
+              else
+                _buildOptions3x2(question, colors),
               const SizedBox(height: 24),
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  Widget _buildLinePatternArea(IQQuestion question, AppColors colors) {
+    final lp = question.linePattern!;
+    return LinePatternMainWidget(pattern: lp);
+  }
+
+  Widget _buildLineOptions(IQQuestion question, AppColors colors) {
+    final lp = question.linePattern!;
+    final correctLines = question.linePattern!.lines;
+    final rx = lp.missingX;
+    final ry = lp.missingY;
+    final rw = lp.missingW;
+    final rh = lp.missingH;
+
+    List<List<LineSpec>> allOptions;
+
+    if (question.lineOptions != null && question.lineOptions!.length >= 6) {
+      allOptions = List<List<LineSpec>>.from(question.lineOptions!);
+    } else {
+      final correctClipped = correctLines
+          .map((l) => l.clipToRegion(rx, ry, rw, rh))
+          .toList();
+      allOptions = <List<LineSpec>>[correctClipped];
+      int attempts = 0;
+      while (allOptions.length < 6 && attempts < 300) {
+        attempts++;
+        final r = attempts / 200;
+        List<LineSpec> wrong;
+        if (r < 0.3) {
+          wrong = correctLines
+              .map(
+                (l) => LineSpec.shiftLine(
+                  l,
+                  (attempts % 5 - 2) * 0.15,
+                  (attempts % 3 - 1) * 0.1,
+                ),
+              )
+              .map((l) => l.clipToRegion(rx, ry, rw, rh))
+              .toList();
+        } else if (r < 0.6) {
+          final colors2 = [
+            0xFF818CF8,
+            0xFFF472B6,
+            0xFF34D399,
+            0xFFFBBF24,
+            0xFFFB923C,
+            0xFF67E8F9,
+            0xFFF87171,
+          ];
+          wrong = correctLines
+              .map(
+                (l) =>
+                    LineSpec.changeColor(l, colors2[attempts % colors2.length]),
+              )
+              .map((l) => l.clipToRegion(rx, ry, rw, rh))
+              .toList();
+        } else {
+          final swapped = List<LineSpec>.from(correctLines);
+          if (swapped.length >= 2) {
+            final i = attempts % swapped.length;
+            final j = (attempts + 1) % swapped.length;
+            final tmp = swapped[i];
+            swapped[i] = swapped[j];
+            swapped[j] = tmp;
+          }
+          wrong = swapped.map((l) => l.clipToRegion(rx, ry, rw, rh)).toList();
+        }
+
+        final isDup = allOptions.any((opt) {
+          if (opt.length != wrong.length) return false;
+          for (int i = 0; i < opt.length; i++) {
+            if ((opt[i].x1 - wrong[i].x1).abs() > 0.01 ||
+                (opt[i].y1 - wrong[i].y1).abs() > 0.01 ||
+                opt[i].colorValue != wrong[i].colorValue) {
+              return false;
+            }
+          }
+          return true;
+        });
+        if (!isDup) allOptions.add(wrong);
+      }
+    }
+
+    final correctClipped = correctLines
+        .map((l) => l.clipToRegion(rx, ry, rw, rh))
+        .toList();
+    final shuffled = List<List<LineSpec>>.from(allOptions)..shuffle();
+    final correctIndex = shuffled.indexWhere((opt) {
+      if (opt.length != correctClipped.length) return false;
+      for (int i = 0; i < opt.length; i++) {
+        if ((opt[i].x1 - correctClipped[i].x1).abs() > 0.01 ||
+            (opt[i].y1 - correctClipped[i].y1).abs() > 0.01 ||
+            opt[i].colorValue != correctClipped[i].colorValue) {
+          return false;
+        }
+      }
+      return true;
+    });
+    _lineCorrectIndex = correctIndex;
+
+    return SizedBox(
+      width: 360,
+      child: GridView.builder(
+        physics: const NeverScrollableScrollPhysics(),
+        gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+          crossAxisCount: 3,
+          crossAxisSpacing: 8,
+          mainAxisSpacing: 8,
+          childAspectRatio: 1,
+        ),
+        itemCount: shuffled.length,
+        shrinkWrap: true,
+        itemBuilder: (context, index) {
+          final isSelected = _selectedOption == index;
+          final isCorrectOption = index == correctIndex;
+
+          Color? borderColor;
+          Color? glowColor;
+          if (_locked && isSelected) {
+            if (_isCorrect == true) {
+              borderColor = colors.success;
+              glowColor = colors.success.withValues(alpha: 0.8);
+            } else {
+              borderColor = colors.error;
+              glowColor = colors.error.withValues(alpha: 0.8);
+            }
+          } else if (_locked && isCorrectOption && _isCorrect == false) {
+            borderColor = colors.success;
+            glowColor = colors.success.withValues(alpha: 0.4);
+          }
+
+          return GestureDetector(
+            onTap: () => _onOptionTap(index),
+            child: AnimatedContainer(
+              duration: const Duration(milliseconds: 200),
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(10),
+                border: Border.all(
+                  color: borderColor ?? Colors.white.withValues(alpha: 0.1),
+                  width: 2,
+                ),
+                boxShadow: glowColor != null
+                    ? [
+                        BoxShadow(
+                          color: glowColor,
+                          blurRadius: 16,
+                          spreadRadius: 0,
+                        ),
+                      ]
+                    : null,
+              ),
+              child: LinePatternOptionWidget(
+                lines: shuffled[index],
+                missingX: 0,
+                missingY: 0,
+                missingW: 1,
+                missingH: 1,
+              ),
+            ),
+          );
+        },
       ),
     );
   }
@@ -369,10 +546,7 @@ class _QuizScreenState extends State<QuizScreen> {
                     : null,
               ),
               child: Center(
-                child: ShapeWidget(
-                  spec: question.options[index],
-                  size: 50,
-                ),
+                child: ShapeWidget(spec: question.options[index], size: 50),
               ),
             ),
           );
@@ -432,7 +606,9 @@ class _QuizScreenState extends State<QuizScreen> {
                   decoration: BoxDecoration(
                     color: Colors.white.withValues(alpha: 0.05),
                     borderRadius: BorderRadius.circular(12),
-                    border: Border.all(color: Colors.white.withValues(alpha: 0.1)),
+                    border: Border.all(
+                      color: Colors.white.withValues(alpha: 0.1),
+                    ),
                   ),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -559,7 +735,9 @@ class _QuizScreenState extends State<QuizScreen> {
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(12),
                       ),
-                      side: BorderSide(color: colors.primary.withValues(alpha: 0.5)),
+                      side: BorderSide(
+                        color: colors.primary.withValues(alpha: 0.5),
+                      ),
                       backgroundColor: colors.primary.withValues(alpha: 0.1),
                     ),
                     child: Text(
@@ -593,7 +771,9 @@ class _QuizScreenState extends State<QuizScreen> {
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(12),
                       ),
-                      side: BorderSide(color: Colors.white.withValues(alpha: 0.2)),
+                      side: BorderSide(
+                        color: Colors.white.withValues(alpha: 0.2),
+                      ),
                       backgroundColor: Colors.white.withValues(alpha: 0.1),
                     ),
                     child: Text(
@@ -644,7 +824,12 @@ class _QuizScreenState extends State<QuizScreen> {
     );
   }
 
-  Widget _buildReviewItem(_AnswerRecord answer, AppColors colors, AppLocalizations loc, int index) {
+  Widget _buildReviewItem(
+    _AnswerRecord answer,
+    AppColors colors,
+    AppLocalizations loc,
+    int index,
+  ) {
     return Container(
       margin: const EdgeInsets.only(bottom: 16),
       padding: const EdgeInsets.all(16),
@@ -700,7 +885,10 @@ class _QuizScreenState extends State<QuizScreen> {
             height: 80,
             child: Row(
               children: [
-                _buildMiniMatrix(answer.question, colors),
+                if (answer.question.isLineQuestion)
+                  _buildMiniLinePattern(answer.question, colors)
+                else
+                  _buildMiniMatrix(answer.question, colors),
                 const SizedBox(width: 16),
                 Expanded(
                   child: Column(
@@ -785,14 +973,58 @@ class _QuizScreenState extends State<QuizScreen> {
                         fontWeight: FontWeight.w900,
                       ),
                     )
-                  : ShapeWidget(
-                      spec: question.sequence[index],
-                      size: 16,
-                    ),
+                  : ShapeWidget(spec: question.sequence[index], size: 16),
             ),
           );
         },
       ),
     );
+  }
+
+  Widget _buildMiniLinePattern(IQQuestion question, AppColors colors) {
+    final lp = question.linePattern!;
+    return Container(
+      width: 72,
+      height: 54,
+      decoration: BoxDecoration(
+        color: const Color(0xFFD1D5DB),
+        borderRadius: BorderRadius.circular(6),
+        border: Border.all(color: Colors.white.withValues(alpha: 0.1)),
+      ),
+      child: ClipRRect(
+        borderRadius: BorderRadius.circular(6),
+        child: CustomPaint(
+          size: const Size(72, 54),
+          painter: _MiniLinePainter(lines: lp.lines),
+        ),
+      ),
+    );
+  }
+}
+
+class _MiniLinePainter extends CustomPainter {
+  final List<LineSpec> lines;
+
+  _MiniLinePainter({required this.lines});
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    for (final line in lines) {
+      final paint = Paint()
+        ..color = line.color
+        ..strokeWidth = line.strokeWidth * 0.5
+        ..strokeCap = StrokeCap.round
+        ..isAntiAlias = true;
+      canvas.drawLine(
+        Offset(line.x1 * size.width, line.y1 * size.height),
+        Offset(line.x2 * size.width, line.y2 * size.height),
+        paint,
+      );
+    }
+  }
+
+  @override
+  bool shouldRepaint(covariant _MiniLinePainter oldDelegate) {
+    return oldDelegate.lines != lines;
   }
 }

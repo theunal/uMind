@@ -1,4 +1,5 @@
 import 'shape_spec.dart';
+import 'line_spec.dart';
 
 class IQQuestion {
   final String id;
@@ -9,6 +10,10 @@ class IQQuestion {
   final List<ShapeSpec> options;
   final int correctOptionIndex;
   final bool isMatrix;
+  final LinePatternData? linePattern;
+  final List<List<LineSpec>>? lineOptions;
+
+  bool get isLineQuestion => linePattern != null;
 
   const IQQuestion({
     required this.id,
@@ -19,6 +24,8 @@ class IQQuestion {
     required this.options,
     required this.correctOptionIndex,
     this.isMatrix = false,
+    this.linePattern,
+    this.lineOptions,
   });
 
   Map<String, dynamic> toJson() => {
@@ -30,6 +37,10 @@ class IQQuestion {
         'options': options.map((s) => s.toJson()).toList(),
         'correctOptionIndex': correctOptionIndex,
         'isMatrix': isMatrix,
+        if (linePattern != null) 'linePattern': linePattern!.toJson(),
+        if (lineOptions != null)
+          'lineOptions':
+              lineOptions!.map((opt) => opt.map((l) => l.toJson()).toList()).toList(),
       };
 
   factory IQQuestion.fromJson(Map<String, dynamic> json) => IQQuestion(
@@ -45,5 +56,16 @@ class IQQuestion {
             .toList(),
         correctOptionIndex: json['correctOptionIndex'] as int,
         isMatrix: json['isMatrix'] as bool? ?? false,
+        linePattern: json['linePattern'] != null
+            ? LinePatternData.fromJson(
+                json['linePattern'] as Map<String, dynamic>)
+            : null,
+        lineOptions: json['lineOptions'] != null
+            ? (json['lineOptions'] as List)
+                .map((opt) => (opt as List)
+                    .map((l) => LineSpec.fromJson(l as Map<String, dynamic>))
+                    .toList())
+                .toList()
+            : null,
       );
 }
